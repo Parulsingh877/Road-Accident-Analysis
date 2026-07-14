@@ -1,0 +1,14 @@
+# 🧹 Processed Dataset
+
+This folder contains the cleaned and transformed road accident dataset used to build the final Excel dashboard.
+
+The original dataset was prepared by cleaning, formatting, and organizing the required columns for analysis.
+
+The processed dataset was used to create:
+
+- PivotTables
+- KPI calculations
+- PivotCharts
+- Dashboard visualizations
+- Slicers and timeline filters
+- Final insights and recommendations
