@@ -1,4 +1,4 @@
-# 🚗💥 Road Accident Analysis Dashboard
+# 🚗💥 Road Accident Analysis
 
 ## 📌🔍 Project Overview
 
