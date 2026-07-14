@@ -1,10 +1,11 @@
-# 🖼️ Project Images
+# 🖼️ Project Work Screenshots
 
-This folder contains the main visual assets used to present the Road Accident Analysis project.
+This folder contains screenshots that show the main work completed in the **Road Accident Analysis project**.
 
-## 📊 Included Images
+## 📊 Included Screenshots
 
-- `road_accident_dashboard.png` — Final road accident analysis dashboard.
-- `pivot_kpi_database.png` — Supporting screenshot showing the PivotTables, KPIs, and analysis setup used to build the dashboard.
+- `road_accident_dashboard.png` — Screenshot of the final interactive Road Accident Analysis Dashboard created in Microsoft Excel.
 
-These images are included to give viewers a clear understanding of both the final dashboard and the analysis process behind it.
+- `pivot_kpi_database.png` — Screenshot showing the PivotTables, KPI calculations, and analysis setup used to build the dashboard.
+
+These screenshots help viewers understand both the final result and the analysis process behind the project.
